@@ -15,4 +15,4 @@ With the help of other people, you are expected to collaborate with them to buil
 ## Windows
 The game has been tested to run on Windows 10, and should run by simply running the executable. In releases, this should be in `windows_build.zip`.
 ## Browser / Chromebooks
-The game can run on Chrome and Firefox so long as `index.html` is run on a local server. In Chromebooks, this can be done with [this extension](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en). Simply download the appropiate `broser_build.zip` file in releases, unpack it into another folder, and run the extension in the root diferectory of the folder containing `index.html`.
+The game can run on Chrome and Firefox so long as `index.html` is run on a local server. In Chromebooks, this can be done with [this extension](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en). Simply download the appropiate `browser_build.zip` file in releases, unpack it into another folder, and run the extension in the root diferectory of the folder containing `index.html`.
