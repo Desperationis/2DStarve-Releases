@@ -7,7 +7,7 @@ This game is a 2D multiplayer survival game focused on using natural resources t
 ## Why did you make this game?
 This game was created to be a fun side project to distract ourselves for school, and not meant to be profitable. We (Kirin & I) thought it would be fun to learn how to work as a team to make a game.
 ## What experience do you guys have?
-I (Deigo), have been programming for 5+ years in robotics, web development, and software development. Kirin has been drawing for 4-5 years, and has been in band for a very long time. We made this game in hopes of broadening our horizons in the fields of network programming and pixel art.
+I have been programming for 5+ years in robotics, web development, and software development. Kirin has been drawing for 4-5 years, and has been in band for a very long time. We made this game in hopes of broadening our horizons in the fields of network programming and pixel art.
 
 With the help of other people, you are expected to collaborate with them to build a base, share and gather resources, and fight mobs together.
 
