@@ -1,5 +1,5 @@
 # 2DStarve
-![Image Capture of the Game](InfoImg.PNG)
+![Image Capture of the Game](2DStarve.gif)
 
 # About / FAQ
 ## What is this game about?
