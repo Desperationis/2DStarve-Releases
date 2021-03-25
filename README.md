@@ -11,15 +11,10 @@ I have been programming for 5+ years in robotics, web development, and software 
 ### When will early access be released?
 Never lol
 
-## Running the game
-### Windows
-The game has been tested to run on Windows 10, and should run by simply running the executable.
+## Supported Platforms
+Currently, the game has only been tested to run on Windows 10 and Debian-based linux distributions. However, any platform supported by [Photon Bolt](https://www.photonengine.com/bolt) is technically supported. 
 
-### Linux
-The game has been tested to run on Debian-based distributions, and should run by simply running the executable.
-
-
-## Seeting up Tiled to make maps
+## Setting up Tiled to make maps
 
 ![files](MapGuide/Files.PNG)
 
