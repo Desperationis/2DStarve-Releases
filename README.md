@@ -58,5 +58,7 @@ As for what mobs you can spawn using layer names, here is the full list:
     Rabbit
     Wolf
     ForestBat
+    Campfire
+    SpawnPoint
 
-Each mob listed will be spawned at their respective points near their feet, including trees.
+Each mob listed will be spawned at their respective points near their feet, including trees. As for `SpawnPoint`, the ONLY the FIRST instance of it will be used to spawn players.
